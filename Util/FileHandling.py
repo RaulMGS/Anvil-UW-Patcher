@@ -1,5 +1,4 @@
-from os import path
-import sys
+import os
 
 def file_read_bytes(path):
     file = open(path, 'rb')
@@ -11,3 +10,6 @@ def file_write_bytes(path, bytes):
     file = open(path, 'wb')
     file.write(bytes)
     file.close()
+
+def file_exists(path):
+    return os.path.isfile(path)
