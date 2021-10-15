@@ -12,11 +12,9 @@ Available aspect ratios are 21:9 and 32:9
 **Examples:**
 
 ```patcher.exe "E:/Steam/steamapps/common/Assassins Creed Odyssey/ACOdyssey.exe" 21:9```
-
 will patch the game to run cutscenes in 21:9 aspect
 
 ```patcher.exe "E:/Steam/steamapps/common/Assassins Creed Odyssey/ACOdyssey.exe" 32:9```
-
 will patch the game to run cutscenes in 32:9 aspect
 
 **Reverting:**
