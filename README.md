@@ -25,6 +25,10 @@ The patcher always backs up the original exe file as "game.exe.bak" .
 
 In order to revert the executable to its original state just navigate to your game folder, delete the existing game.exe file and rename the game.exe.bak file back to game.exe.
 
+**Updating the game:**
+
+Most of the times, the game has to be patched again after an update.
+
 ## Game Support
 - Supports both Uplay and Steam game binaries.
 - The script has only been tested with Assassin's Creed Odyssey.
