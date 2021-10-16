@@ -36,4 +36,4 @@ else:
 
 # Write new file
 filehandler.file_write_bytes(sys.argv[1], byteData)
-print("Successfully patched file")
+print("Successfully patched File")

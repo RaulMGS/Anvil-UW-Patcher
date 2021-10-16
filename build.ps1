@@ -1,0 +1,1 @@
+pyinstaller --onefile --name "Patcher" --exclude-module _bootlocale PatcherCL.py
