@@ -1,6 +1,8 @@
 # Anvil UW Patcher
 Anvil UW Patcher is a byte patcher tool that brings ultrawide support for cutscenes in Ubisoft's AnvilNext engine based Games. Currently tested for Assassin's Creed Odyssey and Assassin's Creed Valhalla.
 
+### DISCLAIMER: Games that are using anti-cheat such as BattleEye will detect changes made to the executable and flag it as hacked. Use the patcher at your own risk.
+
 ## Usage
 
 First download the latest release Patcher.exe from the [Releases Page](https://github.com/RaulMGS/Anvil-UW-Patcher/releases)
