@@ -30,8 +30,8 @@ In order to revert the executable to its original state just navigate to your ga
 Most of the times, the game has to be patched again after an update.
 
 ## Game Support
-- Assassin's Creed Odyssey - Ultrawide Cutscene Black Bars Removed.
-- Assassin's Creed Valhalla - Ultrawide Cutscene Black Bars Removed.
+- **Assassin's Creed Odyssey** - Ultrawide Cutscene Black Bars Removed.
+- **Assassin's Creed Valhalla** - Ultrawide Cutscene Black Bars Removed.
 - Supports both Uplay and Steam game binaries.
 
 ## Before and Afters
