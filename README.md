@@ -3,6 +3,8 @@ Anvil UW Patcher is a byte patcher tool that brings ultrawide support for cutsce
 
 ## Usage
 
+First download the latest release Patcher.exe from the [Releases Page](https://github.com/RaulMGS/Anvil-UW-Patcher/releases)
+
 In order to patch a game executable, open your terminal of choice (cmd, powershell etc.) at the location of the patcher, then run the patcher as a command:
 
 ```patcher.exe "path/to/your/game.exe" aspect_ratio```
