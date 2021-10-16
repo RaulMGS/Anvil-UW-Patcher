@@ -38,3 +38,15 @@ Most of the times, the game has to be patched again after an update.
 ![img](https://i.imgur.com/wxE3zFe.jpeg)
 
 ![img](https://i.imgur.com/PqKjMz9.jpeg)
+
+## Modifying and Packaging
+
+**NOTE 1:** the project requires python 3.10 but it can probably run on older Python 3.x versions as well since it doesn't use any recently added Python API.
+
+If anyone wants to modify and pack the script or just to pack the patcher.exe on their own, just clone the repository and do the desired changes. 
+
+**NOTE 2:** pyinstaller is required for the packing process and can be installed by running ```pip install pyinstaller```
+
+The build.ps1 script should be run on powershell to package the executable.
+
+After packing the script, the standalone patcher.exe can be found in the dist folder of the project.
