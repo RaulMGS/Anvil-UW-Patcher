@@ -34,6 +34,7 @@ Most of the times, the game has to be patched again after an update.
 ## Game Support
 - **Assassin's Creed Odyssey** - Ultrawide Cutscene Black Bars Removed.
 - **Assassin's Creed Valhalla** - Ultrawide Cutscene Black Bars Removed.
+- **Assassin's Creed Origins** - Exe supported but nothing to patch.
 - Supports both Uplay and Steam game binaries.
 
 ## Before and Afters
