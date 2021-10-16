@@ -1,5 +1,5 @@
 # Anvil UW Patcher
-Anvil UW Patcher is a byte patcher tool that brings ultrawide support for cutscenes in Ubisoft's AnvilNext engine based Games.
+Anvil UW Patcher is a byte patcher tool that brings ultrawide support for cutscenes in Ubisoft's AnvilNext engine based Games. Currently tested for Assassin's Creed Odyssey and Assassin's Creed Valhalla.
 
 ## Usage
 
@@ -30,8 +30,9 @@ In order to revert the executable to its original state just navigate to your ga
 Most of the times, the game has to be patched again after an update.
 
 ## Game Support
+- Assassin's Creed Odyssey - Ultrawide Cutscene Black Bars Removed.
+- Assassin's Creed Valhalla - Ultrawide Cutscene Black Bars Removed.
 - Supports both Uplay and Steam game binaries.
-- The script has only been tested with Assassin's Creed Odyssey.
 
 ## Before and Afters
 
